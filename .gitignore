@@ -1,1 +1,4 @@
 *.pdf
+
+# Ignore the node_modules folder
+Deep-Reinforcement-Learning-Solutions/
